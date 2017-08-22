@@ -11,5 +11,8 @@
 (function() {
     'use strict';
     if("Micah Elizabeth Scott" === document.evaluate('//*[@id="watch7-user-header"]/div/a', document, null, XPathResult.ANY_TYPE, null ).iterateNext().innerText)
-        document.getElementById('live-chat-iframe').src="https://gitter.im/scanlime/live";
+	{
+		document.getElementById('live-chat-iframe').src="https://gitter.im/scanlime/live"; 
+		document.getElementById('live-chat-iframe').style.resize= 'both';
+	}
 })();

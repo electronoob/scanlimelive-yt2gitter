@@ -1,5 +1,5 @@
 # scanlimelive-yt2gitter
 
-![alt text](https://i.imgur.com/giFjaLr.png "screenshot of embedded chat")
+![alt text](https://i.imgur.com/yK6c9cQ.png "screenshot of embedded chat")
 
 
